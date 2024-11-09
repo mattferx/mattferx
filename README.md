@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi mattias 👋
 
-<!--
-**mattferx/mattferx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+A passionate software developer from Canada 🇨🇦
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on a marketplace
+
+🌱 I’m currently learning Docker, Supabase, AWS
+
+💬 Ask me about Node.js, React, Firebase... or anything here
+
+⚡ Fun fact Game of Thrones Night's Watch cloaks are made from Ikea rugs
+
+  
+⚒️ Languages-Frameworks-Tools ⚒️
+
+ 
+
+🐍 My Contributions 🐍
+
+snake eating my contributions
+
+
+
+
+⚡ Stats ⚡
+
+streak stats readme stats
+top langs
+
+
+
+
+Buy Me a Coffee at ko-fi.com
