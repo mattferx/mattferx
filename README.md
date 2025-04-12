@@ -9,7 +9,7 @@
 <div align="center">
   🎓 I'm a passionate Software Engineering student 
   🚀 Currently exploring technologies like Docker, Supabase, and AWS to enhance my full-stack development skills.  
-  💡 Constantly learning and growing in the world of modern web development  
+  💡 Constantly learning and growing in the world of modern web development.  
   ⚡ The first computer bug was an actual moth found in a computer in 1947.
 </div>
 
