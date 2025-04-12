@@ -7,10 +7,10 @@
 <br/>
 
 <div align="center">
-  🔭 I’m currently working on a marketplace  
-  🌱 I’m currently learning Docker, Supabase, AWS  
-  💬 Ask me about Node.js, React, Laravel... or anything [here](https://github.com/salesp07/salesp07/issues)  
-  ⚡ Fun fact Breaking Bad Night's Watch cloaks are made from Ikea rugs
+  🎓 I'm a passionate Software Engineering student 
+  🚀 Currently exploring technologies like Docker, Supabase, and AWS to enhance my full-stack development skills.  
+  💡 Constantly learning and growing in the world of modern web development  
+  ⚡ The first computer bug was an actual moth found in a computer in 1947.
 </div>
 
 <div align="center">
@@ -32,7 +32,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,flask,laravel" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,laravel" />
 </div>
 
 <br/>
@@ -68,4 +68,4 @@
 </div>
 <br/>
 
-Buy Me a Coffee at ko-fi.com
+
